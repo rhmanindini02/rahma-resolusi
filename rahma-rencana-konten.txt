@@ -5,6 +5,7 @@ RENCANA KONTEN RAHMA
   - Framework Javascript 
     ^ Vue
     ^ React
+    ^ Angular
 - Struktur Data Dasar
 - PHP Frameworks
     ^Laravel 
